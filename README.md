@@ -20,12 +20,9 @@ Si quieres seguir mi progreso sígueme en mis Redes Sociales:
 ## Tecnologías usadas
 ### Lenguaje
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-### Organización de trabajo
-![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ### Front end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### Back end
 ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -34,11 +31,7 @@ Si quieres seguir mi progreso sígueme en mis Redes Sociales:
 ### Herramientas de diseño
 ![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ## Habilidades
 - Trabajo en equipo.
 - Gestión de proyectos | Resolución de problemas.
 - Atención al cliente | Ventas.
-
-![](https://i.pinimg.com/564x/b9/40/fd/b940fda6a6097b1cdf56c91a5862c880.jpg)
-
