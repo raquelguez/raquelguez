@@ -9,7 +9,6 @@ Me llamo Raquel y siempre he tenido interés en la relación que tiene el ✨Art
 📌📌Siempre he compaginado mi formación con trabajos de cara al público. Estoy muy agradecida del aprendizaje que me ha dado, pues he adquirido aptitudes de organización, gestión y adaptación al trabajo en equipo. 
 
 Muchas gracias por visitar mi perfil.
-💬 ¡Estamos en contacto! 💬
 
 ### 💌 Contacto
 Si quieres seguir mi progreso sígueme en mis Redes Sociales:
