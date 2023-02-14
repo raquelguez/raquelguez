@@ -26,7 +26,3 @@ Si quieres seguir mi progreso sígueme en mis Redes Sociales:
 ### Herramientas de diseño
 ![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-## Habilidades
-- Trabajo en equipo.
-- Gestión de proyectos | Resolución de problemas.
-- Atención al cliente | Ventas.
