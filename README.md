@@ -2,7 +2,7 @@
 
 Me llamo Raquel y siempre he tenido interés en la relación que tiene el ✨Arte con la Sociedad y la Tecnología✨. 
 
-🎨📚Mi paso por la Facultad de Bellas Artes me ha dado una gran retrospectiva sobre las imágenes de la historia del arte que forman parte de la memoria colectiva y que siguen funcionando en la actualidad como recursos publicitarios, porque apelan al ser humano.
+🎨📚Mi paso por la Facultad de Bellas Artes me ha dado una gran retrospectiva sobre las imágenes de la historia del arte que forman parte de la memoria colectiva.
 
 🖱⛏Por ello decidí completar mi formación con un Bootcamp intensivo de Desarrollo Web con JavaScript en el que pude desarrollar mi perfil creativo en el Front-end con herramientas como HTML5, CSS3 y React y añadir habilidades nuevas, aprendiendo la lógica del Back-end con MongoDB, Node y Express.
 
