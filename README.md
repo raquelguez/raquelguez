@@ -16,7 +16,7 @@ Si quieres seguir mi progreso sígueme en mis Redes Sociales:
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Raquel Rodríguez#7208)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Raquel Rodríguez#7208)
 
 ## Tecnologías usadas
 ### Lenguaje
