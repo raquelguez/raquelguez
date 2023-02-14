@@ -1,16 +1,45 @@
-### Hi there 👋
+# Raquel Rodríguez Sebastián
 
-<!--
-**raquelguez/raquelguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me llamo Raquel y siempre he tenido interés en la relación que tiene el ✨Arte con la Sociedad y la Tecnología✨. 
 
-Here are some ideas to get you started:
+🎨📚Mi paso por la Facultad de Bellas Artes me ha dado una gran retrospectiva sobre las imágenes de la historia del arte que forman parte de la memoria colectiva y que siguen funcionando en la actualidad como recursos publicitarios, porque apelan al ser humano.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖱⛏Por ello decidí completar mi formación con un Bootcamp intensivo de Desarrollo Web con JavaScript en el que pude desarrollar mi perfil creativo en el Front-end con herramientas como HTML5, CSS3 y React y añadir habilidades nuevas, aprendiendo la lógica del Back-end con MongoDB, Node y Express.
+
+📌📌Siempre he compaginado mi formación con trabajos de cara al público. Estoy muy agradecida del aprendizaje que me ha dado, pues he adquirido aptitudes de organización, gestión y adaptación al trabajo en equipo. 
+
+Muchas gracias por visitar mi perfil.
+💬 ¡Estamos en contacto! 💬
+
+### 💌 Contacto
+Si quieres seguir mi progreso sígueme en mis Redes Sociales:
+
+[![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Raquel Rodríguez#7208)
+
+## Tecnologías usadas
+### Lenguaje
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Organización de trabajo
+![TRELLO](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+### Front end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Back end
+![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![EXPRESSJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### Herramientas de diseño
+![BLENDER](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![PHOTOSHOP](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![LIGHTROOM](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+## Habilidades
+- Trabajo en equipo.
+- Gestión de proyectos | Resolución de problemas.
+- Atención al cliente | Ventas.
+
+![](https://i.pinimg.com/564x/b9/40/fd/b940fda6a6097b1cdf56c91a5862c880.jpg)
+
