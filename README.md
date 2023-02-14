@@ -6,10 +6,6 @@ Me llamo Raquel y siempre he tenido interés en la relación que tiene el ✨Art
 
 🖱⛏Por ello decidí completar mi formación con un Bootcamp intensivo de Desarrollo Web con JavaScript en el que pude desarrollar mi perfil creativo en el Front-end con herramientas como HTML5, CSS3 y React y añadir habilidades nuevas, aprendiendo la lógica del Back-end con MongoDB, Node y Express.
 
-📌📌Siempre he compaginado mi formación con trabajos de cara al público. Estoy muy agradecida del aprendizaje que me ha dado, pues he adquirido aptitudes de organización, gestión y adaptación al trabajo en equipo. 
-
-Muchas gracias por visitar mi perfil.
-
 ### 💌 Contacto
 Si quieres seguir mi progreso sígueme en mis Redes Sociales:
 
