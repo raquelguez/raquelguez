@@ -5,7 +5,7 @@ Me llamo Raquel y siempre he tenido interés en la relación que tiene el ✨Art
 🖱⛏Por ello decidí completar mi formación con un Bootcamp intensivo de Desarrollo Web con JavaScript en el que pude desarrollar mi perfil creativo en el Front-end con herramientas como HTML5, CSS3 y React y añadir habilidades nuevas, aprendiendo la lógica del Back-end con MongoDB, Node y Express.
 
 ### 💌 Contacto
-Si quieres seguir mi progreso sígueme en mis Redes Sociales:
+Si quieres seguir mi progreso sígueme en mis Redes Sociales: 
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/raquelguez)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/raquelrodríguezsebastián/)
